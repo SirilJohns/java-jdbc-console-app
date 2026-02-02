@@ -10,10 +10,15 @@ A simple Java console-based application that demonstrates CRUD operations
 
 ## 📂 Project Structure
 
-src/com/siril/jdbc/crud/
-├── App.java
-└── ProfileDAO.java
-
+```
+src/
+└── com/
+    └── siril/
+        └── jdbc/
+            └── crud/
+                ├── App.java
+                └── ProfileDAO.java
+```
 
 ## ✨ Features
 - Insert profile
